@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dane</h1>
 <h3 align="center">A passionate full-stack developer from Wisconsin</h3>
 
-- 🔭 I’m currently working on [shyToad - Social Media App](https://github.com/DaneBex/shytoad)
+- 🔭 I’m currently working at Agency Spotter(https://www.linkedin.com/company/agency-spotter/)
 
-- 🌱 I’m currently learning **Firebase and Flutter**
+- 🌱 I’m currently learning **Firebase and React Native**
 
-- 👨‍💻 All of my projects are available at [https://danebex.github.io/](https://danebex.github.io/)
+- 👨‍💻 If I'm not coding you can catch me running, playing cards, or traveling
 
-- 💬 Ask me about **react, redux, and python**
+- 💬 Ask me about **React, GraphQl, and Typescript**
 
 - 📫 How to reach me **danebecker790@gmail.com**
 
